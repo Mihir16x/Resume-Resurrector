@@ -41,6 +41,8 @@ Upload Resume: Upload your resume in PDF format using the provided file uploader
 
 Resume Analysis: The application will analyze your resume and provide feedback based on the provided job description.
 
+Detailed Feedback: User will receive detailed feedback on their 5 weakest areas where they need improvement
+
 ## Contributing
 Contributions to this project are welcome! To contribute:
 
